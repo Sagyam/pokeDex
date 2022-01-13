@@ -49,3 +49,7 @@ function clearAllPokemons() {
 		pokemonCard.remove();
 	});
 }
+
+searchbox.removeAttribute("disabled");
+searchbox.placeholder = "Search by name, type or habitat";
+searchType.removeAttribute("disabled");

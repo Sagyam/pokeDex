@@ -1,5 +1,5 @@
 /* Import lato fonts */
-@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap");
 
 * {
 	box-sizing: border-box;
@@ -91,7 +91,7 @@ h1 {
 
 #search-box {
 	margin-top: 20px;
-	width: auto;
+	width: 330px;
 	padding: 10px;
 	border: 1px solid #ccc;
 	border-radius: 10px;
