@@ -1,5 +1,5 @@
 const mainContainer = document.getElementById("main-container");
-const pokemonCount = 898;
+const pokemonCount = 150;
 export let pokemons = [];
 export const habitats = [];
 
