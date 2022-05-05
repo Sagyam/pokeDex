@@ -1,7 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/Sagyam/pokeDex/1e746f16ac1c1de0946dcc8b59cc3b005bf47586/logo.svg)
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?style=for-the-badge&logo=appveyor)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![wakatime](https://wakatime.com/badge/user/4ce09006-1b8c-491f-ace1-a70b32d5fc1c/project/c79c52c8-60e7-43b0-9fff-bd719f935410.svg?style=for-the-badge)](https://wakatime.com/badge/user/4ce09006-1b8c-491f-ace1-a70b32d5fc1c/project/c79c52c8-60e7-43b0-9fff-bd719f935410?style=for-the-badge)
+[![GitHub license](https://img.shields.io/github/license/Sagyam/Major-Project-Backend?style=for-the-badge)](https://github.com/Sagyam/Major-Project-Backend/blob/backend/LICENSE)
 
 # [PokeDex](https://www.sagyamthapa.me/pokeDex)
 
